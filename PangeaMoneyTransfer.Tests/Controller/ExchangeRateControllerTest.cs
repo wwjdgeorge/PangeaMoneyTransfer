@@ -15,7 +15,7 @@ namespace PangeaMoneyTransfer.Tests.Controller
         public void DetailsUnitTest()
         {
             //arrange
-            var mockRepo = new Mock<IExchangeService>();
+            var mockExchangeService = new Mock<IExchangeService>();
 
             //act
             //assert 
