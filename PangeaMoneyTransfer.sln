@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PangeaMoneyTransfer", "PangeaMoneyTransfer\PangeaMoneyTransfer.csproj", "{6E6BB0D1-0009-4D06-A3BB-80B5526DBFA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PangeaMoneyTransfer.Tests", "PangeaMoneyTransfer.Tests\PangeaMoneyTransfer.Tests.csproj", "{9515E29B-77C8-4FA0-8B07-6E2CA2287C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E6BB0D1-0009-4D06-A3BB-80B5526DBFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6BB0D1-0009-4D06-A3BB-80B5526DBFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6BB0D1-0009-4D06-A3BB-80B5526DBFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6BB0D1-0009-4D06-A3BB-80B5526DBFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9515E29B-77C8-4FA0-8B07-6E2CA2287C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9515E29B-77C8-4FA0-8B07-6E2CA2287C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9515E29B-77C8-4FA0-8B07-6E2CA2287C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9515E29B-77C8-4FA0-8B07-6E2CA2287C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56939B51-965C-4B27-A048-455013FA0374}
+	EndGlobalSection
+EndGlobal
